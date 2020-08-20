@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MobileVerfication</string>
+    <string name="app_name">OTPVerfication</string>
     <string name="otp_verfication">OTP Verfication</string>
     <string name="send_otp_message">we will send you an one time password on this mobile number</string>
     <string name="enter_mobile_number">Enter Mobile Number</string>

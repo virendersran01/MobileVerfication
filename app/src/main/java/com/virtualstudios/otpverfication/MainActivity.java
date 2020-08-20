@@ -1,4 +1,4 @@
-package com.virtualstudios.mobileverfication;
+package com.virtualstudios.otpverfication;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,4 +1,4 @@
-package com.virtualstudios.mobileverfication;
+package com.virtualstudios.otpverfication;
 
 import org.junit.Test;
 
